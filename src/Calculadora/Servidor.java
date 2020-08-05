@@ -17,7 +17,7 @@ public class Servidor {
         System.out.println ("Servidor conectado");
     } 
     catch (Exception e) {
-        System.out.println ("Servidor não conectado" + e ); 
+        System.out.println ("Servidor não conectado!!!" + e ); 
     }
 }
 }

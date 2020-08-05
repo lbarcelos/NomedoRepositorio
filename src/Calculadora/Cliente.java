@@ -20,6 +20,7 @@ public class Cliente {
         System.out.println("Digite (4) para Divisão:");
         System.out.print("Opção Escolhida: ");
         
+        
         // Escolha do Método
         int escolha = sc.nextInt();
 
